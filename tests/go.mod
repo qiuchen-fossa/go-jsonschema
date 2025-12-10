@@ -10,7 +10,7 @@ replace (
 require (
 	github.com/atombender/go-jsonschema v0.20.0
 	github.com/atombender/go-jsonschema/tests/helpers/other v0.0.0-20250601000041-458aecabb68c
-	github.com/go-viper/mapstructure/v2 v2.2.1
+	github.com/go-viper/mapstructure/v2 v2.4.0
 	github.com/google/go-cmp v0.7.0
 	github.com/stretchr/testify v1.11.1
 	gopkg.in/yaml.v3 v3.0.1
